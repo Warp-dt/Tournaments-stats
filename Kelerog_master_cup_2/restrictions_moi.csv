@@ -1,0 +1,16 @@
+,cra,ecaflip,eniripsa,enutrof,feca,iop,osamodas,pandawa,roublard,sacrieur,sadida,sram,steamer,xelor,zobal
+cra,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+ecaflip,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False
+eniripsa,True,True,True,False,True,False,True,False,False,True,True,False,True,True,True
+enutrof,False,False,False,True,False,True,False,True,False,False,False,False,True,False,False
+feca,False,False,True,False,True,False,True,False,False,True,True,False,False,True,True
+iop,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False
+osamodas,False,False,True,False,True,False,True,False,False,True,True,False,False,True,True
+pandawa,False,False,False,True,False,True,False,True,False,False,False,False,False,True,True
+roublard,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+sacrieur,False,False,True,False,True,True,True,False,False,True,True,False,True,True,True
+sadida,False,False,True,False,True,False,True,False,False,True,True,False,False,True,True
+sram,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+steamer,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False
+xelor,False,True,True,False,True,True,True,True,False,True,True,False,False,True,True
+zobal,False,False,True,False,True,False,True,True,False,True,True,False,False,True,True
